@@ -1,1 +1,4 @@
-p { color: red; }
+p { color: white; }
+.cards-container {
+    column-count: 2;
+}
